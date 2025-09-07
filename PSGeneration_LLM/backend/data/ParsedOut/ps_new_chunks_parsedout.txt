@@ -1,0 +1,314 @@
+=== Status Log ===
+Loading original PS document for update.
+Cloned PS document for safe editing.
+Inserted new para after anchor 9 for chunk 1.
+Inserted new para after anchor 9 for chunk 2.
+Inserted new para after anchor 9 for chunk 3.
+Inserted new para after anchor 9 for chunk 4.
+Inserted new para after anchor 9 for chunk 5.
+Inserted new para after anchor 9 for chunk 6.
+Inserted new para after anchor 9 for chunk 7.
+Inserted new para after anchor 9 for chunk 8.
+Inserted new para after anchor 9 for chunk 9.
+Inserted new para after anchor 9 for chunk 10.
+Inserted new para after anchor 9 for chunk 11.
+Inserted new para after anchor 9 for chunk 12.
+Inserted new para after anchor 9 for chunk 13.
+Inserted new para after anchor 9 for chunk 14.
+Inserted new para after anchor 9 for chunk 15.
+Inserted new para after anchor 9 for chunk 16.
+Inserted new para after anchor 9 for chunk 17.
+Inserted new para after anchor 9 for chunk 18.
+Inserted new para after anchor 9 for chunk 19.
+Saving new PS document: ps_5915db144f67_new_generated.docx (0 sections updated, 19 inserted).
+Generation complete.
+
+=== Chunks Information ===
+
+---- Chunk 1 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 2 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 3 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 4 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 5 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 6 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 1.0000
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 7 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.7819
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 8 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.3451
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 9 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.5137
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 10 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.7622
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 11 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.8048
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 12 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.8098
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 13 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.3359
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 14 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.7519
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 15 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.7520
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 16 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.7934
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 17 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.6908
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 18 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.6082
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+---- Chunk 19 ----
+Requirement Chunk:
+
+
+Matched Old Mockup Chunk:
+
+
+Matched PS Chunk:
+
+
+Similarity (New→Old): 0.6037
+Similarity (Old→PS): 0.4087
+Anchor Location: section_path='', para_idx=0, docx_idx=9
+Action Taken: Inserted after section_path='' para_idx=0 (docx_idx=9)
+
+=== Chunks with Similarity Score > 70% (Old→PS) ===
+None

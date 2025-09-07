@@ -1,0 +1,80 @@
+=== New Mockup Chunks and Embeddings ===
+
+--- New Mockup Chunk 1 ---
+Text: 50 YONGE STREET HOME1
+Embedding: [-0.0128, -0.0152,  0.0099, ...,  0.0025, -0.0133,  0.0078]
+
+--- New Mockup Chunk 2 ---
+Text: SUITE/APARTMENT # 100
+Embedding: [-0.0308, -0.0536,  0.0071, ..., -0.0205,  0.0236, -0.0152]
+
+--- New Mockup Chunk 3 ---
+Text: ATTN: JOHN SMITH
+Embedding: [ 0.0124,  0.0237,  0.0135, ..., -0.0508,  0.006 ,  0.0141]
+
+--- New Mockup Chunk 4 ---
+Text: TORONTO ON M1X 5ES
+Embedding: [ 0.0156,  0.0296,  0.0197, ..., -0.0257, -0.0063, -0.0087]
+
+--- New Mockup Chunk 5 ---
+Text: CANADA
+Embedding: [ 0.0093, -0.018 ,  0.0254, ..., -0.0251,  0.0056, -0.0186]
+
+--- New Mockup Chunk 6 ---
+Text: June 16, 2022
+Embedding: [ 0.02  ,  0.0176,  0.0428, ...,  0.0171, -0.0029,  0.0103]
+
+--- New Mockup Chunk 7 ---
+Text: Important information about CIBC Service Commitment and Protecting Your Privacy for your CIBC mortgage <mortgage #> of your property at <property address>
+Embedding: [ 0.0542,  0.0402,  0.0216, ..., -0.0193,  0.009 , -0.006 ]
+
+--- New Mockup Chunk 8 ---
+Text: Hello <First Name>,
+Embedding: [ 0.009 , -0.0261,  0.0005, ..., -0.0036,  0.0008,  0.0139]
+
+--- New Mockup Chunk 9 ---
+Text: Thank you for being a valued client.
+Embedding: [ 0.0011,  0.0081, -0.0186, ..., -0.0338,  0.0058,  0.0171]
+
+--- New Mockup Chunk 10 ---
+Text: We’re committed to giving you the best service for your mortgage and banking needs. Our commitment includes maintaining a high standard of client service and protecting your personal information.
+Embedding: [ 0.0471,  0.0592,  0.0558, ..., -0.0092, -0.0052,  0.0132]
+
+--- New Mockup Chunk 11 ---
+Text: As we continue to build a lasting relationship with you, we’re reaching out to let you know that our Service Commitment outlines what you can expect from us. You can access it on our website at cibc.com/servicecommitment. Additionally, you can find the information about CIBC privacy policy and principles in the enclosed brochure titled, “Protecting your privacy: Disclosure Notice”.
+Embedding: [ 0.0571, -0.0078,  0.0453, ..., -0.0003, -0.0085,  0.0023]
+
+--- New Mockup Chunk 12 ---
+Text: To view your mortgage details, please visit our website: www.cibc.com and sign on to your CIBC Online Banking.
+Embedding: [ 0.0389,  0.0125,  0.0217, ...,  0.0096,  0.0005, -0.0275]
+
+--- New Mockup Chunk 13 ---
+Text: Have questions or need help?
+Embedding: [-0.0069, -0.0227,  0.0556, ..., -0.0068, -0.0176,  0.014 ]
+
+--- New Mockup Chunk 14 ---
+Text: Should you have questions about this letter, please contact us at 1 800 465-2422, or speak with your CIBC Advisor. We will be happy to assist you.
+Embedding: [ 0.0517, -0.022 ,  0.0805, ..., -0.0099, -0.0246,  0.0214]
+
+--- New Mockup Chunk 15 ---
+Text: We feel privileged to serve you, and we strive to demonstrate it every day. Thank you for choosing CIBC for your mortgage. We value your business and your trust in us.
+Embedding: [ 0.0374, -0.0022,  0.0232, ..., -0.0324, -0.0271,  0.0124]
+
+--- New Mockup Chunk 16 ---
+Text: Sincerely,
+Embedding: [ 0.0439, -0.0609, -0.0278, ...,  0.0098, -0.0263,  0.001 ]
+
+--- New Mockup Chunk 17 ---
+Text: CIBC Personal Lending
+Embedding: [ 2.8966e-02,  1.1760e-05,  3.4094e-02, ..., -2.5720e-02, -9.5326e-03,
+  2.4684e-03]
+
+--- New Mockup Chunk 18 ---
+Text: The CIBC logo is a trademark of CIBC.
+Embedding: [ 0.0372,  0.0069,  0.0147, ..., -0.0046, -0.011 , -0.0056]
+
+--- New Mockup Chunk 19 ---
+Text: All other trademarks are owned by CIBC or related entities. CIBC Head Office, 81 Bay St., CIBC Square, Toronto, Ontario Canada M5J 0E7
+Embedding: [ 0.0146,  0.003 ,  0.0426, ..., -0.0124,  0.002 , -0.007 ]
+
+=== End of New Mockup Log ===

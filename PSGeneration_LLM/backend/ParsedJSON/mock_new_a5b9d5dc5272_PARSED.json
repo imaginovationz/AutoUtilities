@@ -1,0 +1,2127 @@
+{
+  "parsed_at": "2025-09-04T19:43:51.334465",
+  "source_file": "C:\\Users\\ernig\\eclipse-workspace\\PSGeneration_LLM\\backend\\data\\uploads\\mock_new_a5b9d5dc5272.docx",
+  "paragraphs_and_tables": [
+    {
+      "type": "paragraph",
+      "text": "50 YONGE STREET HOME1",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "50 YONGE STREET HOME1",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "SUITE/APARTMENT # 100",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "SUITE/APARTMENT # 100",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ATTN: JOHN SMITH",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "ATTN: JOHN SMITH",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "TORONTO ON M1X 5ES",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "TORONTO ON M1X 5ES",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CANADA",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "CANADA",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "June 16, 2022",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "June 16, 2022",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "text": "Important information about CIBC Service Commitment and Protecting Your Privacy for your CIBC mortgage <mortgage #> of your property at <property address>",
+      "style": "Heading 1",
+      "alignment": "center",
+      "runs": [
+        {
+          "text": "Important ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "information about ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "CIBC Service Commitment and Protecting Your Privacy for your CIBC mortgage <mortgage",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": " #",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "> ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "of your property at ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "<property address>",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hello <First Name>,",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Hello ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "<First Name>,",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for being a valued client.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Thank you for ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "being a valued client",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": ".",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re committed to giving you the best service for your mortgage and banking needs. Our commitment includes maintaining a high standard of client service and protecting your personal information.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "W",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "e",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "’re",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": " committed to ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "giving you the best service for your mortgage ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "and banking needs. Our commitment includes maintaining a high standard of client service and protecting your personal information. ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "As we continue to build a lasting relationship with you, we’re reaching out to let you know that our Service Commitment outlines what you can expect from us. You can access it on our website at cibc.com/servicecommitment. Additionally, you can find the information about CIBC privacy policy and principles in the enclosed brochure titled, “Protecting your privacy: Disclosure Notice”.",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "As we continue to build a lasting relationship with you, we’re reaching out to let you know that our Service Commitment outlines what you can expect from us. You can access it on our website at cibc.com/servicecommitment. Additionally, you can find the information about CIBC privacy policy and principles in the enclosed brochure titled, “",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Protecting your privacy: Disclosure Notice”",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": ".",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To view your mortgage details, please visit our website: www.cibc.com and sign on to your CIBC Online Banking.",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "To view your mortgage details, please visit our website: ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " and sign on to your CIBC Online Banking.",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "heading",
+      "text": "Have questions or need help?",
+      "style": "Heading 1",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Have questions or need help?",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Should you have questions about this letter, please contact us at 1 800 465-2422, or speak with your CIBC Advisor. We will be happy to assist you.",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Should you have questions about this letter, please contact",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "us",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "at ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "1 800 465-2422",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": ", ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "or speak with your CIBC Advisor. We will be happy to assist you.",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We feel privileged to serve you, and we strive to demonstrate it every day. Thank you for choosing CIBC for your mortgage. We value your business and your trust in us.",
+      "style": "Body Text",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "We feel privileged to serve you, and we strive to demonstrate it every day. Thank you for choosing CIBC for your mortgage. We value your business and your trust in us.",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sincerely,",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "S",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "incerely,",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "CIBC Personal Lending",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "CIBC ",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "Personal Lendin",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "g",
+          "font_name": "Arial",
+          "font_size": 11.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The CIBC logo is a trademark of CIBC.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "The",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "CIBC",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "logo",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "is",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "a",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "trademark",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "of",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "CIBC.",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All other trademarks are owned by CIBC or related entities. CIBC Head Office, 81 Bay St., CIBC Square, Toronto, Ontario Canada M5J 0E7",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "All",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "other",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "trademarks",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "are",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "owned",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "by",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "CIBC",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "or",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "related",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "entities.",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " CIBC",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Head",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Office,",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "81",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Bay",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "St.,",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "CIBC",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Square,",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Toronto,",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Ontario",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "Canada",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "M5J",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": " ",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        },
+        {
+          "text": "0E7",
+          "font_name": "Calibri",
+          "font_size": 6.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "231F20"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": []
+    }
+  ],
+  "tables_runs": [],
+  "text_runs_properties": [
+    {
+      "text": "50 YONGE STREET HOME1",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "SUITE/APARTMENT # 100",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "ATTN: JOHN SMITH",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "TORONTO ON M1X 5ES",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "CANADA",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "June 16, 2022",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Important ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "information about ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "CIBC Service Commitment and Protecting Your Privacy for your CIBC mortgage <mortgage",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": " #",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-6'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "> ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-10'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "of your property at ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-10'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "<property address>",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Hello ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "<First Name>,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Thank you for ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "being a valued client",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": ".",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "W",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "e",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "’re",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": " committed to ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "giving you the best service for your mortgage ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "and banking needs. Our commitment includes maintaining a high standard of client service and protecting your personal information. ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "As we continue to build a lasting relationship with you, we’re reaching out to let you know that our Service Commitment outlines what you can expect from us. You can access it on our website at cibc.com/servicecommitment. Additionally, you can find the information about CIBC privacy policy and principles in the enclosed brochure titled, “",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Protecting your privacy: Disclosure Notice”",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Italic",
+        "Italic (Complex Script)",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": ".",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "To view your mortgage details, please visit our website: ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "www.cibc.com",
+      "properties": [
+        "rStyle: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': 'Hyperlink'}",
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": " and sign on to your CIBC Online Banking.",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Have questions or need help?",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Should you have questions about this letter, please contact",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '28'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "us",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '29'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "at ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "1 800 465-2422",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": ", ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "or speak with your CIBC Advisor. We will be happy to assist you.",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "We feel privileged to serve you, and we strive to demonstrate it every day. Thank you for choosing CIBC for your mortgage. We value your business and your trust in us.",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "S",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "incerely,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "CIBC ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "Personal Lendin",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "g",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Arial', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Arial'}",
+        "Font Size: 11pt",
+        "Font Size (Complex Script): 11pt"
+      ]
+    },
+    {
+      "text": "The",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '5'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "CIBC",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '5'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "logo",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '6'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "is",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '5'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "a",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '6'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "trademark",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '5'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "of",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '6'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "CIBC.",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "All",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "other",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "trademarks",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "are",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "owned",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "by",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "CIBC",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "or",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "related",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '3'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "entities.",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " CIBC",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Head",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Office,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "81",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Bay",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "St.,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "CIBC",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Square,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Toronto,",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Ontario",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "Canada",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '1'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "M5J",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": " ",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '2'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    },
+    {
+      "text": "0E7",
+      "properties": [
+        "rFonts: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}ascii': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}hAnsi': 'Calibri', '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}cs': 'Calibri'}",
+        "color: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '231F20'}",
+        "spacing: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '-5'}",
+        "w: {'{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val': '105'}",
+        "Font Size: 6pt",
+        "Font Size (Complex Script): 6pt"
+      ]
+    }
+  ]
+}

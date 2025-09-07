@@ -1,0 +1,454 @@
+{
+  "parsed_at": "2025-09-04T19:06:31.243091",
+  "source_file": "C:\\Users\\ernig\\eclipse-workspace\\PSGeneration_LLM\\backend\\data\\uploads\\mock_old_67749cce6534.docx",
+  "paragraphs_and_tables": [
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": []
+    },
+    {
+      "type": "paragraph",
+      "text": "50 YONGE STREET HOME1",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "50 YONGE STREET HOME1",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "SUITE/APARTMENT # 100",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "SUITE/APARTMENT # 100",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ATTN: JOHN SMITH",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "ATTN: JOHN ",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "SMITH",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "",
+          "font_name": "Courier New",
+          "font_size": 8.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "TORONTO ON M1X 5ES",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "TORONTO ON M1X 5ES",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CANADA",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "CANADA",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "June 16, 2022",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "June 16, 2022",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dear CIBC Mortgage Customer:",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Dear CIBC Mortgage Customer:",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Re: Mortgage Loan Number: Property Address:",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Re: Mortgage Loan Number: Property Address:",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for choosing CIBC for your mortgage loan needs.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Thank you for choosing CIBC for your mortgage loan needs.",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "At CIBC, we are committed to serving all of your mortgage loan and banking needs. In order to do so, we are dedicated to providing a high standard of client service and protecting all of the information you give us. For your information, please find enclosed two brochures, entitled Our Service Commitment and Your Privacy is Protected, which outline our commitments in more detail.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "At CIBC, we are committed to serving all of your mortgage loan and banking needs. In order to do so, we are dedicated to providing a high standard of client service and protecting all of the information you give us. For your information, please find enclosed two brochures, entitled ",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "Our Service Commitment",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": " and ",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "Your Privacy is Protected,",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": true,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": " which outline our commitments in more detail.",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, we are here to help. We have a wide range of solutions for all of your banking needs. To find out more, feel free to contact your CIBC advisor or call us at 1-800-465-2422.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Remember, we are here to help. We have a wide range of solutions for all of your banking needs. To find out more, feel free to contact your CIBC advisor or call us at 1-800-465-2422.",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you once again for choosing CIBC. We look forward to continuing to serve your banking needs.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Thank you once again for choosing CIBC. We look forward to continuing to serve your banking needs.",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Yours sincerely,",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "Yours sincerely,",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CIBC Representative",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "CIBC Representative",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "P.S. Remember, it’s easy for you to keep track of your CIBC mortgage loan. Simply visit www.cibc.com to sign onto CIBC Online Banking and viewing your mortgage loan details anytime.",
+      "style": "Normal",
+      "alignment": "unknown",
+      "runs": [
+        {
+          "text": "P.S. Remember, it’s easy for you to keep track of your CIBC mortgage loan. Simply visit ",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": "www.cibc.com",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": true,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        },
+        {
+          "text": " to sign onto CIBC Online Banking and viewing your mortgage loan details anytime.",
+          "font_name": "Courier New",
+          "font_size": 10.0,
+          "bold": null,
+          "italic": null,
+          "underline": null,
+          "color": "000000"
+        }
+      ]
+    }
+  ],
+  "tables_runs": [],
+  "text_runs_properties": [
+    {
+      "text": "50 YONGE STREET HOME1",
+      "properties": null
+    },
+    {
+      "text": "SUITE/APARTMENT # 100",
+      "properties": null
+    },
+    {
+      "text": "ATTN: JOHN ",
+      "properties": null
+    },
+    {
+      "text": "SMITH",
+      "properties": null
+    },
+    {
+      "text": "TORONTO ON M1X 5ES",
+      "properties": null
+    },
+    {
+      "text": "CANADA",
+      "properties": null
+    },
+    {
+      "text": "June 16, 2022",
+      "properties": null
+    },
+    {
+      "text": "Dear CIBC Mortgage Customer:",
+      "properties": null
+    },
+    {
+      "text": "Re: Mortgage Loan Number: Property Address:",
+      "properties": null
+    },
+    {
+      "text": "Thank you for choosing CIBC for your mortgage loan needs.",
+      "properties": null
+    },
+    {
+      "text": "At CIBC, we are committed to serving all of your mortgage loan and banking needs. In order to do so, we are dedicated to providing a high standard of client service and protecting all of the information you give us. For your information, please find enclosed two brochures, entitled ",
+      "properties": null
+    },
+    {
+      "text": "Our Service Commitment",
+      "properties": [
+        "Italic"
+      ]
+    },
+    {
+      "text": " and ",
+      "properties": null
+    },
+    {
+      "text": "Your Privacy is Protected,",
+      "properties": [
+        "Italic"
+      ]
+    },
+    {
+      "text": " which outline our commitments in more detail.",
+      "properties": null
+    },
+    {
+      "text": "Remember, we are here to help. We have a wide range of solutions for all of your banking needs. To find out more, feel free to contact your CIBC advisor or call us at 1-800-465-2422.",
+      "properties": null
+    },
+    {
+      "text": "Thank you once again for choosing CIBC. We look forward to continuing to serve your banking needs.",
+      "properties": null
+    },
+    {
+      "text": "Yours sincerely,",
+      "properties": null
+    },
+    {
+      "text": "CIBC Representative",
+      "properties": null
+    },
+    {
+      "text": "P.S. Remember, it’s easy for you to keep track of your CIBC mortgage loan. Simply visit ",
+      "properties": null
+    },
+    {
+      "text": "www.cibc.com",
+      "properties": [
+        "Bold"
+      ]
+    },
+    {
+      "text": " to sign onto CIBC Online Banking and viewing your mortgage loan details anytime.",
+      "properties": null
+    }
+  ]
+}
