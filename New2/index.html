@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Git Folder Counter</title>
+    <style>
+        body { font-family: Arial; margin: 40px; }
+        input { width: 500px; padding: 8px; }
+        button { padding: 8px 15px; margin-left: 10px; }
+        #result { margin-top: 20px; font-size: 18px; }
+    </style>
+</head>
+<body>
+
+<h2>Find Git Folder Structure</h2>
+
+<input type="text" id="gitUrl" placeholder="Enter GitHub tree URL" />
+<button onclick="findStructure()">Find GIT Structure</button>
+
+<div id="result"></div>
+
+<script>
+function findStructure() {
+    const gitUrl = document.getElementById("gitUrl").value;
+
+    fetch("/api/git-structure", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ git_url: gitUrl })
+    })
+    .then(res => res.json())
+    .then(data => {
+        if (data.error) {
+            document.getElementById("result").innerText = "Error: " + data.error;
+        } else {
+            document.getElementById("result").innerText =
+                "Folder count: " + data.folder_count;
+        }
+    });
+}
+</script>
+
+</body>
+</html>
